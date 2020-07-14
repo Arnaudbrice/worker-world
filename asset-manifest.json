@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/monster-rolodex-v2/static/css/main.0093db18.chunk.css",
-    "main.js": "/monster-rolodex-v2/static/js/main.8b494f81.chunk.js",
-    "main.js.map": "/monster-rolodex-v2/static/js/main.8b494f81.chunk.js.map",
-    "runtime-main.js": "/monster-rolodex-v2/static/js/runtime-main.65791260.js",
-    "runtime-main.js.map": "/monster-rolodex-v2/static/js/runtime-main.65791260.js.map",
-    "static/js/2.6ca730f3.chunk.js": "/monster-rolodex-v2/static/js/2.6ca730f3.chunk.js",
-    "static/js/2.6ca730f3.chunk.js.map": "/monster-rolodex-v2/static/js/2.6ca730f3.chunk.js.map",
-    "index.html": "/monster-rolodex-v2/index.html",
-    "precache-manifest.b93d7f893f2cd20282051b6d974be023.js": "/monster-rolodex-v2/precache-manifest.b93d7f893f2cd20282051b6d974be023.js",
-    "service-worker.js": "/monster-rolodex-v2/service-worker.js",
-    "static/css/main.0093db18.chunk.css.map": "/monster-rolodex-v2/static/css/main.0093db18.chunk.css.map",
-    "static/js/2.6ca730f3.chunk.js.LICENSE.txt": "/monster-rolodex-v2/static/js/2.6ca730f3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/monster-rolodex-v2/static/media/Bachelor Pad Shadow JL.cec0ab5a.ttf"
+    "main.css": "/worker-world/static/css/main.05762434.chunk.css",
+    "main.js": "/worker-world/static/js/main.08165cfc.chunk.js",
+    "main.js.map": "/worker-world/static/js/main.08165cfc.chunk.js.map",
+    "runtime-main.js": "/worker-world/static/js/runtime-main.eca12c36.js",
+    "runtime-main.js.map": "/worker-world/static/js/runtime-main.eca12c36.js.map",
+    "static/js/2.6ca730f3.chunk.js": "/worker-world/static/js/2.6ca730f3.chunk.js",
+    "static/js/2.6ca730f3.chunk.js.map": "/worker-world/static/js/2.6ca730f3.chunk.js.map",
+    "index.html": "/worker-world/index.html",
+    "precache-manifest.462211b7ca58917baeb462db25653f76.js": "/worker-world/precache-manifest.462211b7ca58917baeb462db25653f76.js",
+    "service-worker.js": "/worker-world/service-worker.js",
+    "static/css/main.05762434.chunk.css.map": "/worker-world/static/css/main.05762434.chunk.css.map",
+    "static/js/2.6ca730f3.chunk.js.LICENSE.txt": "/worker-world/static/js/2.6ca730f3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/worker-world/static/media/Bachelor Pad Shadow JL.cec0ab5a.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.65791260.js",
+    "static/js/runtime-main.eca12c36.js",
     "static/js/2.6ca730f3.chunk.js",
-    "static/css/main.0093db18.chunk.css",
-    "static/js/main.8b494f81.chunk.js"
+    "static/css/main.05762434.chunk.css",
+    "static/js/main.08165cfc.chunk.js"
   ]
 }
