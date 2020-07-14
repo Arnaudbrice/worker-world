@@ -2,7 +2,7 @@
   "name": "monsters-rolodex-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Arnaudbrice.github.io/worker-world",
+  "homepage": "https://arnaudbrice.github.io/worker-world",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
