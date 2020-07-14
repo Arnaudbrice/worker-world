@@ -11,7 +11,8 @@
   transform: scale(1.05);
 }
 
-/* hover css animation styling */
+/* ----------------- hover css animation styling ------------- */
+
 .hvr-rectangle-out:before{
   background:#325959;
 

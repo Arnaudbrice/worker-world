@@ -17,7 +17,7 @@ class App extends React.Component {
 
 /* Called immediately after a component is mounted(is insert inside the page). Setting state here will trigger re-rendering.(one of the lifecycle methods) */
   componentDidMount() {
-    fetch("http://jsonplaceholder.typicode.com/users")
+    fetch("https://jsonplaceholder.typicode.com/users")
       .then(response => response.json()) //.json() to extract the json body
       .then(users => this.setState({ monsters: users }));
   }
