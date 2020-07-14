@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/worker-world/static/css/main.05762434.chunk.css",
-    "main.js": "/worker-world/static/js/main.c7b61637.chunk.js",
-    "main.js.map": "/worker-world/static/js/main.c7b61637.chunk.js.map",
+    "main.css": "/worker-world/static/css/main.174ed544.chunk.css",
+    "main.js": "/worker-world/static/js/main.a65f1fd5.chunk.js",
+    "main.js.map": "/worker-world/static/js/main.a65f1fd5.chunk.js.map",
     "runtime-main.js": "/worker-world/static/js/runtime-main.eca12c36.js",
     "runtime-main.js.map": "/worker-world/static/js/runtime-main.eca12c36.js.map",
     "static/js/2.6ca730f3.chunk.js": "/worker-world/static/js/2.6ca730f3.chunk.js",
     "static/js/2.6ca730f3.chunk.js.map": "/worker-world/static/js/2.6ca730f3.chunk.js.map",
     "index.html": "/worker-world/index.html",
-    "precache-manifest.a5cc9fa27d8a8720755bc2a69deecc2c.js": "/worker-world/precache-manifest.a5cc9fa27d8a8720755bc2a69deecc2c.js",
+    "precache-manifest.5f1b841c258b0456b20235a73f262e48.js": "/worker-world/precache-manifest.5f1b841c258b0456b20235a73f262e48.js",
     "service-worker.js": "/worker-world/service-worker.js",
-    "static/css/main.05762434.chunk.css.map": "/worker-world/static/css/main.05762434.chunk.css.map",
+    "static/css/main.174ed544.chunk.css.map": "/worker-world/static/css/main.174ed544.chunk.css.map",
     "static/js/2.6ca730f3.chunk.js.LICENSE.txt": "/worker-world/static/js/2.6ca730f3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/worker-world/static/media/Bachelor Pad Shadow JL.cec0ab5a.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.eca12c36.js",
     "static/js/2.6ca730f3.chunk.js",
-    "static/css/main.05762434.chunk.css",
-    "static/js/main.c7b61637.chunk.js"
+    "static/css/main.174ed544.chunk.css",
+    "static/js/main.a65f1fd5.chunk.js"
   ]
 }
