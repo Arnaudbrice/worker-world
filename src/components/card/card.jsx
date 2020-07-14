@@ -4,7 +4,7 @@ import "./card.css"
 const Card = props => {
   return (
     <div className="card-container  hvr-grow-shadow hvr-rectangle-out  hvr-hollow">
-      <img src={`https://robohash.org/${props.monster.id}?set=set5&size=180x180`} alt="robot"/>
+      <img src={`https://robohash.org/${props.monster.id}?set=set2&size=180x180`} alt="robot"/>
       <h1>{props.monster.name}</h1>
       <p>{props.monster.email}</p>
     </div>
