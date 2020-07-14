@@ -4,7 +4,7 @@ import "./search-box.css"
 const Search = ({placeholder,handleChange}) => {
   return (
     <div className="search">
-    <input
+    <input id="theInput"
       type="search"
       placeholder={placeholder}
       onChange={handleChange}

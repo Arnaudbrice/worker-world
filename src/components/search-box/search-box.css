@@ -9,9 +9,9 @@
   margin:30px auto ;
 }
 
-.search input{
+#theInput{
   width:250px;
-  height:80px;
+  height:100px;
   text-align: center;
 
 }
