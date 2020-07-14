@@ -1,26 +1,52 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import CardList from "./components/card-list/card-list";
+import Search from './components/search-box/search-box';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+class App extends React.Component {
+  constructor() {
+    super();
+    this.state = {
+      monsters: [],
+      searchField: ""
+    };
+    // this.onHandleChange = this.onHandleChange.bind(this);
+  }
+  handleClick = () => this.setState({ string: "Good" });
+
+/* Called immediately after a component is mounted(is insert inside the page). Setting state here will trigger re-rendering.(one of the lifecycle methods) */
+  componentDidMount() {
+    fetch("http://jsonplaceholder.typicode.com/users")
+      .then(response => response.json()) //.json() to extract the json body
+      .then(users => this.setState({ monsters: users }));
+  }
+
+  onHandleChange = e => {
+    const valu = e.target.value;
+    this.setState({ searchField: valu });
+  };
+
+  render() {
+    const { monsters, searchField } = this.state;
+    const filteredMonsters = monsters.filter(monster => {
+      // "hallo".includes("hallo") => true
+
+      return monster.name.toLowerCase().includes(searchField.toLowerCase());
+    });
+    return (
+      <div className="App">
+
+          <h1 id="heading">Worker world</h1>
+
+
+        <Search placeholder="search Worker" handleChange={this.onHandleChange}/>
+        <CardList monsters={filteredMonsters} />
+      </div>
+    );
+  }
 }
 
+
 export default App;
+

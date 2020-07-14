@@ -1,0 +1,22 @@
+.card-container{
+  background-color: #95dada;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+
+}
+/* hovercss (hvr) is used for hover */
+ .card-container:hover{
+  transform: scale(1.05);
+}
+
+/* hover css animation styling */
+.hvr-rectangle-out:before{
+  background:#325959;
+
+}
+
+/* .hvr-rectangle-out:hover {
+  color: white;
+} */
