@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41eb35a13382ad6638bba19b504f3e38",
+    "revision": "769b4d33c7e3dc4710901de4fb175fc3",
     "url": "/worker-world/index.html"
   },
   {
-    "revision": "fde32ad50525ded2c302",
-    "url": "/worker-world/static/css/main.df9c4974.chunk.css"
+    "revision": "e98ca6c722c90f7e1b56",
+    "url": "/worker-world/static/css/main.4cc82d8e.chunk.css"
   },
   {
     "revision": "5c526664bf522f8fbcbc",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worker-world/static/js/2.6ca730f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fde32ad50525ded2c302",
-    "url": "/worker-world/static/js/main.ea495b4e.chunk.js"
+    "revision": "e98ca6c722c90f7e1b56",
+    "url": "/worker-world/static/js/main.8bf9686e.chunk.js"
   },
   {
     "revision": "b3b43f10a57b789f8a8c",
     "url": "/worker-world/static/js/runtime-main.eca12c36.js"
+  },
+  {
+    "revision": "cec0ab5a1f23bd6e3df166a0fe6cb02e",
+    "url": "/worker-world/static/media/Bachelor Pad Shadow JL.cec0ab5a.ttf"
   },
   {
     "revision": "839499620b1c4540686100dd4fb83016",
