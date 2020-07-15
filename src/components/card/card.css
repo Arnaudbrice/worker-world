@@ -1,23 +1,35 @@
-.card-container{
+.card-container.hvr-grow-shadow.hvr-rectangle-out.hvr-hollow{
   background-color: #95dada;
   border: 1px solid grey;
   border-radius: 5px;
   padding: 25px;
   cursor: pointer;
 
+
 }
 /* hovercss (hvr) is used for hover */
- .card-container:hover{
-  transform: scale(1.05);
-}
+ /* .card-container:hover{
+  transform: scale(1.80);
+} */
 
 /* ----------------- hover css animation styling ------------- */
 
-.hvr-rectangle-out:before{
+.hvr-rectangle-out:hover{
   background:#325959;
 
+
 }
+
+
 
 /* .hvr-rectangle-out:hover {
   color: white;
 } */
+
+h1{
+margin:20px auto;
+}
+
+p{
+  margin:10px auto;
+}

@@ -1,5 +1,6 @@
 import React from "react";
-import "./card.css"
+import "./card.css";
+import "./hover-min.css";
 
 const Card = props => {
   return (
