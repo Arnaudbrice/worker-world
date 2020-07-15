@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61de3563c1c9c19516fe2c14eabd9dae",
+    "revision": "41eb35a13382ad6638bba19b504f3e38",
     "url": "/worker-world/index.html"
   },
   {
-    "revision": "8081f2e0b5161d2a91b1",
-    "url": "/worker-world/static/css/main.b8368e25.chunk.css"
+    "revision": "fde32ad50525ded2c302",
+    "url": "/worker-world/static/css/main.df9c4974.chunk.css"
   },
   {
     "revision": "5c526664bf522f8fbcbc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/worker-world/static/js/2.6ca730f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8081f2e0b5161d2a91b1",
-    "url": "/worker-world/static/js/main.c3b19dc8.chunk.js"
+    "revision": "fde32ad50525ded2c302",
+    "url": "/worker-world/static/js/main.ea495b4e.chunk.js"
   },
   {
     "revision": "b3b43f10a57b789f8a8c",
