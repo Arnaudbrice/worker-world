@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import "./Bachelor Pad Shadow JL.ttf"
 import CardList from "./components/card-list/card-list";
 import Search from './components/search-box/search-box';
 
