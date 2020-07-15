@@ -1,17 +1,27 @@
 .search{
-  border:none;
+  /* border:none; */
   outline:none;
   padding:10px;
 
   line-height:30px;
 
   text-align: center;
-  margin:30px auto ;
+
+
 }
 
-#theInput{
+input.theInput{
+  /* both next lines to style the line of the input type search */
+  -webkit-appearance:textfield;
+box-sizing: content-box;
   width:250px;
-  height:100px;
-  text-align: center;
+  height:40px;
+text-align: center;
+
+font-size: 1rem;
 
 }
+
+/* input.theInput::placeholder{
+
+} */
