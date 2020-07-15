@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/worker-world/static/css/main.5b97974a.chunk.css",
+    "main.css": "/worker-world/static/css/main.d3d44d38.chunk.css",
     "main.js": "/worker-world/static/js/main.ea495b4e.chunk.js",
     "main.js.map": "/worker-world/static/js/main.ea495b4e.chunk.js.map",
     "runtime-main.js": "/worker-world/static/js/runtime-main.eca12c36.js",
@@ -8,16 +8,16 @@
     "static/js/2.6ca730f3.chunk.js": "/worker-world/static/js/2.6ca730f3.chunk.js",
     "static/js/2.6ca730f3.chunk.js.map": "/worker-world/static/js/2.6ca730f3.chunk.js.map",
     "index.html": "/worker-world/index.html",
-    "precache-manifest.2f875c4f791263a6c5bc73f26eb458b9.js": "/worker-world/precache-manifest.2f875c4f791263a6c5bc73f26eb458b9.js",
+    "precache-manifest.0b6bc2ab58a2cc295a6a7856b3da80d5.js": "/worker-world/precache-manifest.0b6bc2ab58a2cc295a6a7856b3da80d5.js",
     "service-worker.js": "/worker-world/service-worker.js",
-    "static/css/main.5b97974a.chunk.css.map": "/worker-world/static/css/main.5b97974a.chunk.css.map",
+    "static/css/main.d3d44d38.chunk.css.map": "/worker-world/static/css/main.d3d44d38.chunk.css.map",
     "static/js/2.6ca730f3.chunk.js.LICENSE.txt": "/worker-world/static/js/2.6ca730f3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/worker-world/static/media/BachelorPadShadowJL-Italic.ffe33a40.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.eca12c36.js",
     "static/js/2.6ca730f3.chunk.js",
-    "static/css/main.5b97974a.chunk.css",
+    "static/css/main.d3d44d38.chunk.css",
     "static/js/main.ea495b4e.chunk.js"
   ]
 }
