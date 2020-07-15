@@ -14,8 +14,8 @@
 
 /* ----------------- hover css animation styling ------------- */
 
-.card-container.hvr-grow-shadow.hvr-rectangle-out.hvr-hollow:hover{
-  background:#325959;
+.card-container.hvr-grow-shadow.hvr-rectangle-out.hvr-hollow:hover:before{
+  background-color:#325959;
 
 
 }
